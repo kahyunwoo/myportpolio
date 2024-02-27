@@ -1,0 +1,10 @@
+$(function(){
+    $('.home-section').bxSlider({
+        mode:'horizontal',
+        auto:true,
+        speed:500,
+        pause:3000,
+        pager:false,
+        controls:false,
+    })
+})

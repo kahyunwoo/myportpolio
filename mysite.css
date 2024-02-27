@@ -1,0 +1,121 @@
+#my_site{
+    width: 100%;
+    height: 800px;
+    margin-top: 300px;
+    width: 100%;
+}
+
+#my_site p{
+  margin-top: 30px;
+  font-size: 50px;
+  font-weight: bold;
+  color: brown;
+  text-align: center;
+}
+
+#my_site a{
+  font-size: 16px;
+  color: #333333;
+}
+
+
+.img_rolling{
+  position: absolute;
+  height: 300px;
+}
+
+.slide1{
+    position: absolute;
+    left: 40px;
+}
+
+.slide1 img{
+    width: 600px;
+    height: 600px;
+}
+
+.slide1 .link1{
+    position: absolute;
+    margin-left: 130px;
+}
+
+.slide1 .link2{
+    margin-left: 310px;
+}
+
+.slide2{
+    position: absolute;
+    left: 650px;
+}
+
+.slide2 img{
+    width: 600px;
+    height: 600px;
+}
+
+.slide2 .link1{
+    position: absolute;
+    margin-left: 130px;
+}
+
+.slide2 .link2{
+    margin-left: 310px;
+}
+
+
+.slide3{
+    position: absolute;
+    left: 1270px;
+}
+
+.slide3 img{
+    width: 600px;
+    height: 600px;
+}
+
+.slide3 .link1{
+    position: absolute;
+    margin-left: 130px;
+}
+
+.slide3 .link2{
+    margin-left:310px;
+}
+
+
+.slide1 a:link, a:visited {
+    background-color: #FFA500;
+    color: maroon;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+.slide1 a:hover, a:active {
+    background-color: #ffc862;
+}
+
+
+.slide2 a:link, a:visited {
+    background-color: #FFA500;
+    color: maroon;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+.slide2 a:hover, a:active {
+    background-color: #ffc862;
+}
+
+.slide3 a:link, a:visited {
+    background-color: #FFA500;
+    color: maroon;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+.slide3 a:hover, a:active {
+    background-color: #ffc862;
+}

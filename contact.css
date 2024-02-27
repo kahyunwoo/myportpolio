@@ -1,0 +1,157 @@
+#works{
+    width: 100%;
+    height: 700px;
+    width: 100%;
+    margin-top: 100px;
+}
+
+#works .txt1{
+    margin-top: 30px;
+    font-size: 50px;
+    font-weight: bold;
+    color: brown;
+    text-align: center;
+}
+
+#works .img1{
+    display: fixed;
+}
+
+#works .img2{
+    display: fixed;
+
+}
+#works .img1 img{
+    margin-top: 50px;
+    width: 300px;
+    height: 300px;
+    margin-left: 600px;
+}
+#works .img1 p{
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-left: -400px;
+    color: #333333;
+}
+
+#works .img2{
+    position: absolute;
+    margin-top: 4025px;
+    top: 0;
+}
+#works .img2 img{
+    margin-left: 1000px;
+    width: 300px;
+    height: 200px;
+}
+
+#works .img2 p{
+    font-weight: bold;
+    margin-top: 80px;
+    font-size: 16px;
+    margin-left: 1020px;
+    color: #333333;
+}
+
+.works2{
+    position: absolute;
+    width: 100%;
+}
+
+.works2 p{
+    margin-top: 30px;
+    font-size: 50px;
+    font-weight: bold;
+    color: brown;
+    text-align: center;
+}
+
+.works2 .detailpage img{
+    margin-top: 10px;
+    width: 10%;
+    height: 10%;
+    padding: 100px 600px 100px 600px;
+}
+
+.works2 a{
+    position: absolute;
+    top: 500px;
+    left: 1200px;
+    font-size: 50px;
+    color: #333333;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+.works3{
+    position: absolute;
+    width: 100%;
+    margin-top: 1000px;
+}
+
+.works3 p{
+    margin-top: 30px;
+    font-size: 50px;
+    font-weight: bold;
+    color: brown;
+    text-align: center;
+}
+
+.works3 .image img{
+    margin-top: 10px;
+    width: 10%;
+    height: 10%;
+    padding: 100px 700px 100px 700px;
+}
+
+.works3 a{
+    position: absolute;
+    top: 500px;
+    left: 1200px;
+    font-size: 50px;
+    color: #333333;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+.works4{
+    position: absolute;
+    top: 6500px;
+}
+
+.works4 .txt3{
+    display: fixed;
+    margin-left: 550px;
+    margin-top: 30px;
+    font-size: 50px;
+    font-weight: bold;
+    color: brown;
+    text-align: center;
+}
+
+.works4 .img1 img{
+    margin-left:400px;
+    width: 600px;
+    height: 600px;
+}
+
+.works4 .txt4{
+    margin-left: 1200px;
+    margin-top: -300px;
+    font-size: 16px;
+}
+
+.works4 a:link, a:visited {
+    background-color: #FFA500;
+    color: #333333;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+.works4 a:hover, a:active {
+    background-color: #ffc862;
+}
